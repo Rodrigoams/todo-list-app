@@ -1,4 +1,4 @@
+<HEAD
 # To-Do List App
-Uma aplicação simples de lista de tarefas feita com HTML, CSS e JavaScript.
-## Como rodar
-Abra `public/index.html` no navegador.
+ Uma aplicação web simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript. Permite adicionar, marcar como completa e deletar tarefas, com armazenamento local. Projeto para portfólio em ADS, demonstrando habilidades em frontend.
+ 
