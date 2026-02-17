@@ -20,4 +20,4 @@ This project is a practical application of DOM manipulation and state management
 
 ![Project Screenshot]()
 
-> **Live Demo:** []
+> **Live Demo:** [https://rodrigoams.github.io/simple-task-manager/]
