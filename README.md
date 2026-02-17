@@ -18,6 +18,6 @@ This project is a practical application of DOM manipulation and state management
 
 ## 📸 Demo
 
-![Project Screenshot]()
+![Project Screenshot](https://github.com/user-attachments/assets/20badae0-4e9d-4330-bd47-c98695a7a4da)
 
-> **Live Demo:** [https://rodrigoams.github.io/simple-task-manager/]
+> **Live Demo:** [https://rodrigoams.github.io/simple-task-manager/public/]
