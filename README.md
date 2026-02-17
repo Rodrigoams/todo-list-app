@@ -1,4 +1,4 @@
-# 📝 To-Do List Application
+# 📝 Simple Task Manager
 
 A sleek and functional task management tool built to demonstrate solid foundations in **Vanilla JavaScript**, **semantic HTML5**, and **modern CSS3**.
 
@@ -17,6 +17,4 @@ This project is a practical application of DOM manipulation and state management
 * **JavaScript (ES6+)**: Functional logic, event listeners, and local storage integration.
 
 ## 📸 Demo
-![Project Screenshot](https://github.com/user-attachments/assets/1ea18b1f-a56c-42d9-a2b5-203148a8ee34)
 
-> **Live Demo:** []
